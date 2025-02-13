@@ -20,7 +20,13 @@
     "eslint-plugin-prettier": "^5.2.3",
     "eslint-plugin-roblox-ts": "^0.0.36",
     "prettier": "^3.5.0",
+    "rbxts-transformer-flamework": "^1.2.3",
     "roblox-ts": "^3.0.0",
     "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "@flamework/core": "^1.2.3",
+    "@rbxts/flamecs": "^0.1.0-rc.10",
+    "@rbxts/services": "^1.5.5"
   }
 }
